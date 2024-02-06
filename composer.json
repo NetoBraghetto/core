@@ -1,5 +1,5 @@
 {
-  "name": "NetoBraghetto/core",
+  "name": "roach-php/core",
   "description": "A complete web scraping toolkit for PHP",
   "license": "MIT",
   "type": "library",
